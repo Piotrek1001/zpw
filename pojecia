@@ -1,0 +1,8 @@
+repozytorium: to miejsce do przechowywania projektów i ich historii zmian,
+github/bitbucket/gitlab: są to strony, dzięki którym można przechowywać zdalnie projekty, oraz ułatwiają nad nimi prace przez łatwiejsze udostępnianie kodu,
+git: to system, który sprawdza historię zmian w projekcie, oraz umożliwia pracę na różnych gałęziach projektu i łączenie tych gałęzi do maina,
+commit: to komenda, która umożliwia zapisanie zmian w projekcie i opis tych zmian,
+branch: to oddzielenie od głównego projektu, która umożliwia edytowanie go, bez zmian w głównym projekcie,
+ckeckout: to przełącznik między gałęziami projektu,
+merge: pozwala na połączenie różnych gałęzi projektu, np. nowej funkcji z mainem,
+rebase: pozwala na przenoszenie zmian w gałęzi na początek innej gałęzi projektu.
